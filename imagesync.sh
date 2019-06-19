@@ -2,7 +2,7 @@
 
 #get username and password
 USER=angel_img                   #Your username
-PASS=86Izkl7$                   #Your password
+PASS=#########                   #Your password - obviously put the correct one in
 HOST="laltex-extranet.co.uk"          #Keep just the address
 LCD="/storage/USERS/Mary/Images/"     #Your local directory
 RCD="/"               #FTP server directory
